@@ -1,4 +1,4 @@
-# Calculator-
+# Calculator
 I have created a calculator using by python 
 # Simple Python Calculator
 
